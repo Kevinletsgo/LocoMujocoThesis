@@ -311,7 +311,7 @@
     <motor name="mot_ankle_angle_r" gear="500" joint="ankle_angle_r"></motor>
     <motor name="mot_subtalar_angle_r" gear="50" joint="subtalar_angle_r"></motor>
     <motor name="mot_mtp_angle_r" gear="50" joint="mtp_angle_r"></motor>
-    <motor name="mot_hip_flexion_l" gear="1"gear joint="hip_flexion_l"></motor>
+    <motor name="mot_hip_flexion_l" gear="1" joint="hip_flexion_l"></motor>
     <motor name="mot_hip_adduction_l" gear="530" joint="hip_adduction_l"></motor>
     <motor name="mot_hip_rotation_l" gear="600" joint="hip_rotation_l"></motor>
     <motor name="mot_knee_angle_l" gear="600" joint="knee_angle_l"></motor>
