@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.egg-info/
+logs/
+None/
+dist/
+.pytest_cache/
+.DS_Store
+loco_mujoco/datasets/
+mushroom_rl_recordings/
+record_all/
+_build/
+loco_mujoco/environments/data/myo_model_tmp/
+loco_mujoco/environments/data/myo_model/
